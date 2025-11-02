@@ -84,7 +84,7 @@
         <State>AZ</State>
         <Zip>85004</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
-      <!-- Missing </Address> closing tag on purpose -->
+      </Address>
     </Hotel>
     <Hotel Id="H008">
       <Name>Kimpton Hotel Palomar Phoenix</Name>
