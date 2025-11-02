@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-    <Hotel id="H001" Rating="4.2">
+    <Hotel Id="H001" Rating="4.2">
       <Name>Westin Tempe</Name>
       <Phone>480-968-8885</Phone>
       <Phone>800-937-8461</Phone>
@@ -13,7 +13,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H002" Rating="4.4">
+    <Hotel Id="H002" Rating="4.4">
       <Name>Hyatt Regency Phoenix</Name>
       <Phone>602-252-1234</Phone>
       <Address>
@@ -25,7 +25,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H003" Rating="4.3">
+    <Hotel Id="H003" Rating="4.3">
       <Name>Hilton Garden Inn Tempe ASU</Name>
       <Phone>480-804-1313</Phone>
       <Address>
@@ -37,7 +37,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H004" Rating="4.1">
+    <Hotel Id="H004" Rating="4.1">
       <Name>Phoenix Airport Marriott</Name>
       <Phone>602-273-7373</Phone>
       <Address>
@@ -49,7 +49,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H005">
+    <Hotel Id="H005">
       <Name>Courtyard Tempe Downtown</Name>
       <Phone>480-966-2800</Phone>
       <Address>
@@ -61,7 +61,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H006" Rating="4.0">
+    <Hotel Id="H006" Rating="4.0">
       <Name>Aloft Tempe</Name>
       <Phone>480-621-3300</Phone>
       <Address>
@@ -73,7 +73,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H007" Rating="4.5">
+    <Hotel Id="H007" Rating="4.5">
       <Name>Sheraton Phoenix Downtown</Name>
       <Phone>602-262-2500</Phone>
       <Address>
@@ -85,7 +85,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H008">
+    <Hotel Id="H008">
       <Name>Kimpton Hotel Palomar Phoenix</Name>
       <Phone>602-253-6633</Phone>
       <Address>
@@ -97,7 +97,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H009" Rating="4.1">
+    <Hotel Id="H009" Rating="4.1">
       <Name>Residence Inn Tempe Downtown</Name>
       <Phone>480-967-2300</Phone>
       <Address>
@@ -109,7 +109,7 @@
         <NearestAirport>Sky Harbor</NearestAirport>
       </Address>
     </Hotel>
-    <Hotel id="H010">
+    <Hotel Id="H010">
       <Name>Hampton Inn &amp; Suites Tempe</Name>
       <Phone>480-941-3441</Phone>
       <Address>
