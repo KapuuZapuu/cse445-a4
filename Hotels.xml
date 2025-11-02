@@ -110,7 +110,7 @@
       </Address>
     </Hotel>
     <Hotel id="H010">
-      <Name>Hampton Inn & Suites Tempe</Name>
+      <Name>Hampton Inn &amp; Suites Tempe</Name>
       <Phone>480-941-3441</Phone>
       <Address>
         <Number>1415 N Scottsdale Rd</Number>
