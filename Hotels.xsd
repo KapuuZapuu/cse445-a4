@@ -24,7 +24,7 @@
               </xs:element>
             </xs:sequence>
             <!-- Required id attribute; optional Rating attribute -->
-            <xs:attribute name="id" type="xs:string" use="required"/>
+            <xs:attribute name="Id" type="xs:string" use="required"/>
             <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
           </xs:complexType>
         </xs:element>
